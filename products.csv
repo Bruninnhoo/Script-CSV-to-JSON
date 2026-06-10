@@ -1,0 +1,13 @@
+sku;plu_code;name;short_name;description;category;brand;unit_of_measure;sale_price;cost_price;ncm;cfop;icms_origem;icms_csosn_or_cst;tracks_inventory;is_weighed;sold_in_fractions;allows_discount;allows_price_override;is_food;is_active;current_stock;min_stock;predefined_observations;legacy_id
+COCA-350;; Coca-Cola Lata 350ml ;Coca 350;Refrigerante lata 350ml;Bebidas;Coca-Cola;UN;R$ 6,50;3,80;22021000;5102;0;102;sim;nao;nao;sim;nao;sim;sim;24;6;;1001
+PAO-FRANCES-KG;1001;Pão Francês Kg;Pão Francês;;Padaria;;kg;18,90;9,00;19059090;5102;0;102;true;true;true;true;false;true;true;12,500;2;"Bem passado|Mais claro";1002
+CAFE-500;;Café Torrado 500g;Café 500g;Pacote de café tradicional;Mercearia;Sítio Alto;UN;22.50;15.25;09012100;5102;0;102;1;0;0;1;0;1;1;8;3;;1003
+ACUCAR-1KG;;Açúcar Cristal 1kg;Açúcar 1kg;;Mercearia;Doce Vale;unidade;5,99;4,10;17019900;5102;0;102;sim;nao;nao;sim;nao;sim;sim;30;10;;1004
+;;Produto Sem SKU;Sem SKU;Registro propositalmente sem SKU;Teste;Marca Teste;UN;10,00;5,00;12345678;5102;0;102;sim;nao;nao;sim;nao;nao;sim;5;1;;1005
+SEM-NOME;; ;Sem Nome;Registro propositalmente sem nome;Teste;Marca Teste;UN;7,50;2,00;12345678;5102;0;102;sim;nao;nao;sim;nao;nao;sim;4;1;;1006
+QUEIJO-MINAS-KG;2002;Queijo Minas Frescal Kg;Queijo Minas;;Frios;Laticínios Serra;KG;42,90;28,70;04061090;5102;0;102;sim;sim;sim;sim;nao;sim;sim;6,250;1,500;;1007
+REFRI-GUARANA-2L;;Guaraná 2L;Guaraná 2L;Refrigerante garrafa 2 litros;Bebidas;Guaraná Brasil;UN;abc;4,50;22021000;5102;0;102;sim;nao;nao;sim;nao;sim;sim;18;6;;1008
+X-BURGER;;X-Burger;X-Burger;Lanche preparado na hora;Lanches;Casa;UN;24,90;12,00;;5102;0;102;nao;nao;nao;sim;sim;sim;sim;0;0;"Sem cebola|Ponto da carne|Adicionar bacon";1009
+BATATA-500;;Batata Frita 500g;Batata 500g;Porção de batata frita;Lanches;Casa;porcao;29,90;10,00;20041000;5102;0;102;nao;nao;nao;sim;sim;sim;sim;0;0;"Sem sal|Mais crocante";1010
+COCA-350;;Coca-Cola Lata 350ml - duplicada;Coca Dup;Produto com SKU duplicado propositalmente;Bebidas;Coca-Cola;UN;6,50;3,80;22021000;5102;0;102;sim;nao;nao;sim;nao;sim;sim;10;2;;1011
+SABONETE-ABC;;Sabonete Floral;Sabonete;Produto de higiene;Higiene;Floratta;UN;3,75;2,10;330499;5102;0;102;sim;nao;nao;sim;nao;nao;sim;50;12;;1012

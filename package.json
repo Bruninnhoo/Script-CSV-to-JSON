@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "papaparse": "^5.5.3"
+  },
+  "scripts": {
+    "dev": "node main.js"
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "products": [
+    {
+      "sku": "COCA-350",
+      "plu_code": "",
+      "name": " Coca-Cola Lata 350ml ",
+      "short_name": "Coca 350",
+      "description": "Refrigerante lata 350ml",
+      "category": "Bebidas",
+      "brand": "Coca-Cola",
+      "unit_of_measure": "unit",
+      "sale_price": 650,
+      "cost_price": 380,
+      "fiscal": {
+        "ncm": "22021000",
+        "cfop": "5102",
+        "icms_origem": "0",
+        "icms_csosn_or_cst": "102"
+      },
+      "inventory": {
+        "tracks_inventory": true,
+        "current_stock": "24",
+        "min_stock": "6"
+      },
+      "behavior": {
+        "is_weighed": false,
+        "sold_in_fractions": false,
+        "allows_discount": true,
+        "allows_price_override": false,
+        "is_food": true,
+        "is_active": true
+      },
+      "predefined_observations": [
+        ""
+      ],
+      "metadata": {
+        "legacy_id": "1001"
+      }
+    },
+    {
+      "sku": "PAO-FRANCES-KG",
+      "plu_code": "1001",
+      "name": "Pão Francês Kg",
+      "short_name": "Pão Francês",
+      "description": "",
+      "category": "Padaria",
+      "brand": "",
+      "unit_of_measure": "kg",
+      "sale_price": 1890,
+      "cost_price": 900,
+      "fiscal": {
+        "ncm": "19059090",
+        "cfop": "5102",
+        "icms_origem": "0",
+        "icms_csosn_or_cst": "102"
+      },
+      "inventory": {
+        "tracks_inventory": "true",
+        "current_stock": "12,500",
+        "min_stock": "2"
+      },
+      "behavior": {
+        "is_weighed": "true",
+        "sold_in_fractions": "true",
+        "allows_discount": "true",
+        "allows_price_override": "false",
+        "is_food": "true",
+        "is_active": "true"
+      },
+      "predefined_observations": [
+        "Bem passado|Mais claro"
+      ],
+      "metadata": {
+        "legacy_id": "1002"
+      }
+    },
+    {
+      "sku": "CAFE-500",
+      "plu_code": "",
+      "name": "Café Torrado 500g",
+      "short_name": "Café 500g",
+      "description": "Pacote de café tradicional",
+      "category": "Mercearia",
+      "brand": "Sítio Alto",
+      "unit_of_measure": "unit",
+      "sale_price": 2250,
+      "cost_price": 1525,
+      "fiscal": {
+        "ncm": "09012100",
+        "cfop": "5102",
+        "icms_origem": "0",
+        "icms_csosn_or_cst": "102"
+      },
+      "inventory": {
+        "tracks_inventory": true,
+        "current_stock": "8",
+        "min_stock": "3"
+      },
+      "behavior": {
+        "is_weighed": false,
+        "sold_in_fractions": false,
+        "allows_discount": true,
+        "allows_price_override": false,
+        "is_food": true,
+        "is_active": true
+      },
+      "predefined_observations": [
+        ""
+      ],
+      "metadata": {
+        "legacy_id": "1003"
+      }
+    },
+    {
+      "sku": "ACUCAR-1KG",
+      "plu_code": "",
+      "name": "Açúcar Cristal 1kg",
+      "short_name": "Açúcar 1kg",
+      "description": "",
+      "category": "Mercearia",
+      "brand": "Doce Vale",
+      "unit_of_measure": "unit",
+      "sale_price": 599,
+      "cost_price": 410,
+      "fiscal": {
+        "ncm": "17019900",
+        "cfop": "5102",
+        "icms_origem": "0",
+        "icms_csosn_or_cst": "102"
+      },
+      "inventory": {
+        "tracks_inventory": true,
+        "current_stock": "30",
+        "min_stock": "10"
+      },
+      "behavior": {
+        "is_weighed": false,
+        "sold_in_fractions": false,
+        "allows_discount": true,
+        "allows_price_override": false,
+        "is_food": true,
+        "is_active": true
+      },
+      "predefined_observations": [
+        ""
+      ],
+      "metadata": {
+        "legacy_id": "1004"
+      }
+    },
+    {
+      "sku": "QUEIJO-MINAS-KG",
+      "plu_code": "2002",
+      "name": "Queijo Minas Frescal Kg",
+      "short_name": "Queijo Minas",
+      "description": "",
+      "category": "Frios",
+      "brand": "Laticínios Serra",
+      "unit_of_measure": "kg",
+      "sale_price": 4290,
+      "cost_price": 2870,
+      "fiscal": {
+        "ncm": "04061090",
+        "cfop": "5102",
+        "icms_origem": "0",
+        "icms_csosn_or_cst": "102"
+      },
+      "inventory": {
+        "tracks_inventory": true,
+        "current_stock": "6,250",
+        "min_stock": "1,500"
+      },
+      "behavior": {
+        "is_weighed": true,
+        "sold_in_fractions": true,
+        "allows_discount": true,
+        "allows_price_override": false,
+        "is_food": true,
+        "is_active": true
+      },
+      "predefined_observations": [
+        ""
+      ],
+      "metadata": {
+        "legacy_id": "1007"
+      }
+    },
+    {
+      "sku": "REFRI-GUARANA-2L",
+      "plu_code": "",
+      "name": "Guaraná 2L",
+      "short_name": "Guaraná 2L",
+      "description": "Refrigerante garrafa 2 litros",
+      "category": "Bebidas",
+      "brand": "Guaraná Brasil",
+      "unit_of_measure": "unit",
+      "sale_price": 0,
+      "cost_price": 450,
+      "fiscal": {
+        "ncm": "22021000",
+        "cfop": "5102",
+        "icms_origem": "0",
+        "icms_csosn_or_cst": "102"
+      },
+      "inventory": {
+        "tracks_inventory": true,
+        "current_stock": "18",
+        "min_stock": "6"
+      },
+      "behavior": {
+        "is_weighed": false,
+        "sold_in_fractions": false,
+        "allows_discount": true,
+        "allows_price_override": false,
+        "is_food": true,
+        "is_active": true
+      },
+      "predefined_observations": [
+        ""
+      ],
+      "metadata": {
+        "legacy_id": "1008"
+      }
+    },
+    {
+      "sku": "BATATA-500",
+      "plu_code": "",
+      "name": "Batata Frita 500g",
+      "short_name": "Batata 500g",
+      "description": "Porção de batata frita",
+      "category": "Lanches",
+      "brand": "Casa",
+      "unit_of_measure": "unit",
+      "sale_price": 2990,
+      "cost_price": 1000,
+      "fiscal": {
+        "ncm": "20041000",
+        "cfop": "5102",
+        "icms_origem": "0",
+        "icms_csosn_or_cst": "102"
+      },
+      "inventory": {
+        "tracks_inventory": false,
+        "current_stock": "0",
+        "min_stock": "0"
+      },
+      "behavior": {
+        "is_weighed": false,
+        "sold_in_fractions": false,
+        "allows_discount": true,
+        "allows_price_override": true,
+        "is_food": true,
+        "is_active": true
+      },
+      "predefined_observations": [
+        "Sem sal|Mais crocante"
+      ],
+      "metadata": {
+        "legacy_id": "1010"
+      }
+    }
+  ],
+  "errors": [
+    {
+      "row": 6,
+      "field": "sku",
+      "message": "sku is required."
+    },
+    {
+      "row": 7,
+      "field": "name",
+      "message": "name is required."
+    },
+    {
+      "row": 10,
+      "field": "ncm",
+      "message": "ncm must be 8 digits."
+    },
+    {
+      "row": 12,
+      "field": "sku",
+      "message": "sku already exists."
+    },
+    {
+      "row": 13,
+      "field": "ncm",
+      "message": "ncm must be 8 digits."
+    }
+  ]
+}
